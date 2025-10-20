@@ -17,12 +17,23 @@
     <!-- Example Episode -->
     <item>
       <title>Chapter 1 - The Boy Who Lived.</title>
-      <enclosure url="https://nilltronic.github.io/my-podcast/episodes/episode1.mp3"
-                 length="12345678"
+      <enclosure url="https://nilltronic.github.io/my-podcast/mp3s/Chapter%01%-%The%Boy%Who%Lived.mp3"
+                 length="5763072"
                  type="audio/mpeg" />
-      <guid>https://yourusername.github.io/my-podcast/episodes/episode1.mp3</guid>
-      <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
-      <description>This is the first episode.</description>
+      <guid>https://https://nilltronic.github.io/my-podcast/mp3s/Chapter%01%-%The%Boy%Who%Lived.mp3</guid>
+      <pubDate>Thu, 01 Sep 2025 12:00:00 GMT</pubDate>
+      <description>Chapter 1: The Boy Who Lived
+Mr. and Mrs. Dursley and their son, Dudley, live at number four, Privet Drive. They pride themselves on being perfectly normal and have a strong aversion to anything unusual or mysterious.
+
+Mr. Dursley is the director of a firm called Grunnings, which manufactures drills. The Dursleys have a secret related to the Potters, Mrs. Dursley’s sister’s family, whom they consider very un-Dursleyish. They fear someone discovering this secret.
+
+On a particular day, Mr. Dursley notices strange occurrences around town, such as a cat reading a map and people in cloaks whispering about the Potters. He becomes increasingly paranoid about these events and their connection to the Potters.
+
+That evening, Albus Dumbledore and Professor McGonagall meet on Privet Drive. They discuss the mysterious events and the rumors surrounding Voldemort’s disappearance. They are there to leave a baby, Harry Potter, with the Dursleys. Harry is the only survivor of an attack by Voldemort, which resulted in the deaths of his parents, James and Lily Potter. Harry has a lightning-shaped scar on his forehead from the attack.
+
+Dumbledore leaves a letter for the Dursleys explaining the situation. As they depart, Dumbledore mentions that Harry will be famous in the wizarding world as the boy who lived through Voldemort’s curse.
+
+The chapter concludes with Harry being left on the Dursley’s doorstep, unaware of his significance in the wizarding world. The narrative hints that he will be celebrated as “the boy who lived.”</description>
     </item>
 
   </channel>
