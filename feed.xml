@@ -7,7 +7,7 @@
     <language>en-us</language>
 
     <!-- Podcast Artwork -->
-    <itunes:image href="https://yourusername.github.io/my-podcast/cover.jpg" />
+    <itunes:image href="https://yourusername.github.io/harryp1/cover.jpg" />
     <image>
       <url>https://nilltronic.github.io/my-podcast/cover.jpg</url>
       <title>My Personal Podcast</title>
